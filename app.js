@@ -1,5 +1,6 @@
 var scores, roundScore, activePlayer, dice1, dice2, gamePlaying, previousRoll1, previousRoll2;
 domSet();
+console.log("git");
 
 function domSet() {
     scores = [0, 0];
